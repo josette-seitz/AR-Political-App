@@ -1,0 +1,25 @@
+{  
+   "RangeOrder":[  
+      {  
+         "minAge":18,
+         "maxAge":25,
+         "firstTalkingPoint":0,
+         "secondTalkingPoint":1,
+         "thirdTalkingPoint":2
+      },
+      {  
+         "minAge":26,
+         "maxAge":35,
+         "firstTalkingPoint":3,
+         "secondTalkingPoint":4,
+         "thirdTalkingPoint":5
+      },
+      {  
+         "minAge":36,
+         "maxAge":45,
+         "firstTalkingPoint":6,
+         "secondTalkingPoint":7,
+         "thirdTalkingPoint":8
+      }
+   ]
+}
