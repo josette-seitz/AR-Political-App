@@ -1,0 +1,54 @@
+{  
+   "TalkingPoints":[  
+      {  
+         "id": 0,
+         "title": "immagration",
+         "link": "https://www.immagration.com"
+      },
+      {  
+         "id": 1,
+         "title": "abortion",
+         "link": "https://www.abortion.com"
+      },
+      {  
+         "id": 2,
+         "title": "student loans",
+         "link": "https://www.studentloans.com"
+      },
+      {  
+         "id": 3,
+         "title": "taxes",
+         "link": "https://www.taxes.com"
+      },
+      {  
+         "id": 4,
+         "title": "gun control",
+         "link": "https://www.guncontrol.com"
+      },
+      {  
+         "id": 5,
+         "title": "welfare",
+         "link": "https://www.welfare.com"
+      },
+      {  
+         "id": 6,
+         "title": "domestic jobs",
+         "link": "https://www.domesticjobs.com"
+      },
+      {  
+         "id": 7,
+         "title": "terrorism",
+         "link": "https://www.terrorism.com"
+      },
+      {  
+         "id": 8,
+         "title": "climate change",
+         "link": "https://www.climatechange.com"
+      },
+      {  
+         "id": 9,
+         "title": "social security",
+         "link": "https://www.socialsecurity.com"
+      }            
+   ]
+}
