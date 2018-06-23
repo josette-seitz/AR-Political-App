@@ -1,0 +1,109 @@
+{  
+   "RangeOrder":[  
+      {  
+         "minAge": 18,
+         "maxAge": 25,
+         "firstTalkingPoint": 0,
+         "secondTalkingPoint": 1,
+         "thirdTalkingPoint": 2,
+         "firstVideo": "https://www.videoURL1.com",
+         "secondVideo": "https://www.videoURL2.com",
+         "thirdVideo": "https://www.videoURL3.com"
+      },
+      {  
+         "minAge": 26,
+         "maxAge": 35,
+         "firstTalkingPoint": 3,
+         "secondTalkingPoint": 4,
+         "thirdTalkingPoint": 5,
+         "firstVideo": "https://www.videoURL1.com",
+         "secondVideo": "https://www.videoURL2.com",
+         "thirdVideo": "https://www.videoURL3.com"
+      },
+      {  
+         "minAge": 36,
+         "maxAge": 45,
+         "firstTalkingPoint": 6,
+         "secondTalkingPoint": 7,
+         "thirdTalkingPoint": 8,
+         "firstVideo": "https://www.videoURL1.com",
+         "secondVideo": "https://www.videoURL2.com",
+         "thirdVideo": "https://www.videoURL3.com"
+      }
+   ],
+
+   "ButtonLinks":[  
+      {  
+         "id": 0,
+         "title": "Donate",
+         "link": "https://www.donate.com"
+      },
+      {  
+         "id": 1,
+         "title": "Volunteer",
+         "link": "https://www.volunteer.com"
+      },
+      {  
+         "id": 2,
+         "title": "Subscribe",
+         "link": "https://www.subscribe.com"
+      }           
+   ],
+
+   "TalkingPoints":[  
+      {  
+         "id": 0,
+         "title": "immagration",
+         "link": "https://www.immagration.com"
+      },
+      {  
+         "id": 1,
+         "title": "abortion",
+         "link": "https://www.abortion.com"
+      },
+      {  
+         "id": 2,
+         "title": "student loans",
+         "link": "https://www.studentloans.com"
+      },
+      {  
+         "id": 3,
+         "title": "taxes",
+         "link": "https://www.taxes.com"
+      },
+      {  
+         "id": 4,
+         "title": "gun control",
+         "link": "https://www.guncontrol.com"
+      },
+      {  
+         "id": 5,
+         "title": "welfare",
+         "link": "https://www.welfare.com"
+      },
+      {  
+         "id": 6,
+         "title": "domestic jobs",
+         "link": "https://www.domesticjobs.com"
+      },
+      {  
+         "id": 7,
+         "title": "terrorism",
+         "link": "https://www.terrorism.com"
+      },
+      {  
+         "id": 8,
+         "title": "climate change",
+         "link": "https://www.climatechange.com"
+      },
+      {  
+         "id": 9,
+         "title": "social security",
+         "link": "https://www.socialsecurity.com"
+      }            
+   ],
+
+   "Genders": {
+      "gender": ["male", "female"]
+   }
+}
