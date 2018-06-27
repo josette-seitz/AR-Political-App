@@ -105,5 +105,9 @@
 
    "Genders": {
       "gender": ["male", "female"]
+   },
+
+   "PosterMode": {
+      "posterModeEnabled": true
    }
 }
